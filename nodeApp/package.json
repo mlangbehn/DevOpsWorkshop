@@ -10,7 +10,7 @@
     "http-post": "^0.1.1",
     "http-proxy": "^1.8.1",
     "jslint": "^0.12.0",
-    "mocha": "^5.2.0"
+    "mocha": "^9.2.2"
   },
   "main": "server.js",
   "scripts": {
